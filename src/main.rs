@@ -1,5 +1,5 @@
 fn main() {
-    let number = fibonachi::calculate(13);
+    let number = fibonachi::calc(19);
 
     println!("{number}");
 }
