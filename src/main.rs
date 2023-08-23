@@ -8,7 +8,15 @@ fn main() {
     let now = Instant::now();
     let mut result = 0;
 
-    for number in 1..1_000_000 {
+    for number in 1..1_000_000_000 {
+        result = number;
+    }
+
+    for number in 1..1_000_000_000 {
+        result = number;
+    }
+
+    for number in 1..1_000_000_000 {
         result = number;
     }
 
