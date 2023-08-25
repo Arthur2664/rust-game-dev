@@ -1,9 +1,9 @@
 mod fibonachi;
 mod guess_game;
-mod temp_conv;
 mod simple_benchmark;
+mod temp_conv;
+mod rectangle;
+
 fn main() {
-    simple_benchmark::run();
+    println!("Hello world");
 }
-
-
